@@ -33,6 +33,27 @@ Herşeyi düzgün konfigüre ettiyseniz bu ekranla karşılaşıcaksınız. Bura
 
 ![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/07fc75ff-bd7e-43e8-b68c-2acea614f90c)
 
+## Kurulum Ekranı
+Bundan sonraki slaytlarda kurulum sürecini göstereceğim. İhtiyacınız göre seçenekleri değiştirebilirsiniz
+
+
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/fe1dac56-52d0-4909-a81d-d90063b4943f)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/de60c9cb-529a-4b56-8b50-5147cff2a7ce)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/cef18db7-522b-4d60-8c72-d59a121d3300)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/c6304537-2e3c-419b-b470-f54ea6f88ed0)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/4331d5e0-96d8-43ce-9663-0e040b2cb738)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/12425e9b-3285-47bd-a233-8f191c6a1f7e)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/08e1e31e-dc44-4581-b494-7415cb870f94)
+
+
+
+
+
+
+
+
+
+
 
 
 
