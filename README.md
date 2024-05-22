@@ -1,4 +1,4 @@
-![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/761881fd-c297-42cc-a7b8-68501efcddad)# OPNsense'in VMware Üzerine Kurulumu
+# OPNsense'in VMware Üzerine Kurulumu
 
 Merhaba dostlar, bu repoda sizlere OPNsense'in VMware üzerine nasıl kurulduğunu göstereceğim. Hadi Başlayalım!
 <br>
