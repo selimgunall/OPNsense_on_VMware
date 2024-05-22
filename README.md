@@ -48,6 +48,13 @@ Bundan sonraki slaytlarda kurulum sürecini göstereceğim. İhtiyacınız göre
 # BİTTİ!👌
 Eğer interfaceleri düzgün ayarladıysanız OPNsense ile aynı ağa bağlı başka bir sanal makine bağlarsanız ayayüze erişebilirsiniz(default credential root:opnsense)
 
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/a9b60a05-114d-45a4-9ae5-ce0238e40a6b)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/2f9cf3e8-354e-48d6-846d-b7195bd0dfd9)
+
+Herhangi bir sorunuz olursa bana selimgunal2007@gmail.com üzerinden ulaşabilirsiniz
+
+
+
 
 
 
