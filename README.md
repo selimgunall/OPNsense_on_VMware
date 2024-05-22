@@ -17,6 +17,7 @@ OPNsense’in güncel sürümünü indirmek için resmi sitesine gidiyoruz https
 
 ## Kurulum adımları
 Kurulum adımlarını aşağıdaki görsellerden takip edebilirsiniz
+
 ![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/164790a2-4665-4155-8afa-b3f055e90168)
 ![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/bd5a8a94-3757-4ef2-9add-5fd294935c0f)
 ![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/f3ecbbb8-a6b2-43b2-b68b-4d51c9912b08)
