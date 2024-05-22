@@ -2,6 +2,7 @@
 
 Merhaba dostlar, bu repoda sizlere OPNsense'in VMware üzerine nasıl kurulduğunu göstereceğim. Hadi Başlayalım!
 <br>
+
 ## Kurulum Gereksinimleri
 - 20GB Boş alan
 - İnternet bağlantısı(yaklaşık 500mb)
