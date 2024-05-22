@@ -25,6 +25,10 @@ Kurulum adımlarını aşağıdaki görsellerden takip edebilirsiniz
 
 ![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/efdbcb82-7e14-4113-9847-d1f182e5a757)
 
+Donanımın son hali bu şekilde olması gerekiyor ihtiyacınıza göre değiştirebilirsiniz.
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/c74c2c6c-7c5a-4c2c-9da8-3249783f96b7)
+
+
 
 
 
