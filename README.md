@@ -8,6 +8,5 @@ Merhaba dostlar, bu repoda sizlere OPNsense'in VMware üzerine nasıl kurulduğu
 - VMware Workstation Pro(player da olur fakat proda daha fazla konfigürasyon seçeneği var)
 
 
-
-
+\n
 ## Gerekli Dosyaların İndirilmesi
