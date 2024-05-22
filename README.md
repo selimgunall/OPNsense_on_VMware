@@ -7,4 +7,7 @@ Merhaba dostlar, bu repoda sizlere OPNsense'in VMware üzerine nasıl kurulduğu
 - İnternet bağlantısı(yaklaşık 500mb)
 - VMware Workstation Pro(player da olur fakat proda daha fazla konfigürasyon seçeneği var)
 
+
+
+
 ## Gerekli Dosyaların İndirilmesi
