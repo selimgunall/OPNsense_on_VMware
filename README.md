@@ -28,6 +28,13 @@ Kurulum adımlarını aşağıdaki görsellerden takip edebilirsiniz
 Donanımın son hali bu şekilde olması gerekiyor ihtiyacınıza göre değiştirebilirsiniz.
 ![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/c74c2c6c-7c5a-4c2c-9da8-3249783f96b7)
 
+## Tebrikler!
+Herşeyi düzgün konfigüre ettiyseniz bu ekranla karşılaşıcaksınız. Burada kullanıcı adı olarak “installer” parola olarak da ”opnsense” giriniz böylece kurulum ekranına geçebilirsiniz
+
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/07fc75ff-bd7e-43e8-b68c-2acea614f90c)
+
+
+
 
 
 
