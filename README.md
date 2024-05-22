@@ -14,4 +14,6 @@ OPNsense’in güncel sürümünü indirmek için resmi sitesine gidiyoruz https
 
 
 ![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/fed49027-c5d0-40c5-afe1-5aac433a0906)
+![image](https://github.com/opnslm/OPNsense_on_VMware/assets/96252832/5fccdcbd-c6b5-44a7-8281-9e062e9f6ace)
+
 
