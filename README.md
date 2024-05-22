@@ -12,4 +12,3 @@ Merhaba dostlar, bu repoda sizlere OPNsense'in VMware üzerine nasıl kurulduğu
 ## Gerekli Dosyaların İndirilmesi
 OPNsense’in güncel sürümünü indirmek için resmi sitesine gidiyoruz https://opnsense.org/download/. Buradan amd64 ve dvd seçenlerini seçiyoruz, eğer isterseniz kurulumu serial konsol üzerinden de yapabilirsiniz bunun için serial seçeğini seçebilirsiniz. İndirdiğiniz dosyayı WinRAR yardımı ile çıkartıyoruz elinizde “OPNsense-SürümNo-dvd-amd64.iso” adlı imaj dosyası olması gerekiyor.
 
-
